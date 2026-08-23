@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1787344758 source:d:\practica\languages\c\topicos de programacion\clase 1\clase 1 practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1787246440 d:\practica\languages\c\topicos de programacion\clase 1\clase 1 practica\factorial.h
+
+1787343214 d:\practica\languages\c\topicos de programacion\clase 1\clase 1 practica\main.h
+	"factorial.h"
+	"combinatoria.h"
+	"mclauren.h"
+
+1787344967 source:d:\practica\languages\c\topicos de programacion\clase 1\clase 1 practica\factorial.c
+	"factorial.h"
+
+1787253734 d:\practica\languages\c\topicos de programacion\clase 1\clase 1 practica\combinatoria.h
+
+1787253734 source:d:\practica\languages\c\topicos de programacion\clase 1\clase 1 practica\combinatoria.c
+	"combinatoria.h"
+
+1787343214 d:\practica\languages\c\topicos de programacion\clase 1\clase 1 practica\mclauren.h
+
+1787344967 source:d:\practica\languages\c\topicos de programacion\clase 1\clase 1 practica\mclauren.c
+	"mclauren.h"
+
