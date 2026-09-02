@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1787585456 source:c:\users\tomas\onedrive\escritorio\ejercicios_1\combinatoria.c
+	"combinatoria.h"
+	"factorial.h"
+
+1787574715 c:\users\tomas\onedrive\escritorio\ejercicios_1\combinatoria.h
+
+1787586577 source:c:\users\tomas\onedrive\escritorio\ejercicios_1\factorial.c
+	"factorial.h"
+
+1787574715 c:\users\tomas\onedrive\escritorio\ejercicios_1\factorial.h
+
+1787583993 source:c:\users\tomas\onedrive\escritorio\ejercicios_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1787587704 c:\users\tomas\onedrive\escritorio\ejercicios_1\main.h
+	"factorial.h"
+	"combinatoria.h"
+	"potencia.h"
+	"mclauren.h"
+	"raiz.h"
+	"fibonacci.h"
+	"modulo.h"
+	"seno.h"
+
+1787574715 c:\users\tomas\onedrive\escritorio\ejercicios_1\mclauren.h
+
+1787585473 source:c:\users\tomas\onedrive\escritorio\ejercicios_1\mclauren.c
+	"mclauren.h"
+	"potencia.h"
+	"factorial.h"
+
+1787580418 c:\users\tomas\onedrive\escritorio\ejercicios_1\raiz.h
+
+1787586299 source:c:\users\tomas\onedrive\escritorio\ejercicios_1\raiz.c
+	"raiz.h"
+
+1787581323 source:c:\users\tomas\onedrive\escritorio\ejercicios_1\fibonacci.c
+	"fibonacci.h"
+
+1787581112 c:\users\tomas\onedrive\escritorio\ejercicios_1\fibonacci.h
+
+1787587774 source:c:\users\tomas\onedrive\escritorio\ejercicios_1\seno.c
+	"seno.h"
+	"potencia.h"
+	"factorial.h"
+	"modulo.h"
+
+1787581424 c:\users\tomas\onedrive\escritorio\ejercicios_1\seno.h
+
+1787583043 c:\users\tomas\onedrive\escritorio\ejercicios_1\potencia.h
+
+1787583063 source:c:\users\tomas\onedrive\escritorio\ejercicios_1\potencia.c
+	"potencia.h"
+
+1787587380 source:c:\users\tomas\onedrive\escritorio\ejercicios_1\modulo.c
+	"modulo.h"
+
+1787587380 c:\users\tomas\onedrive\escritorio\ejercicios_1\modulo.h
+
+1787585456 source:d:\facultad\ejercicios_1\combinatoria.c
+	"combinatoria.h"
+	"factorial.h"
+
+1787574715 d:\facultad\ejercicios_1\combinatoria.h
+
+1787598295 d:\facultad\ejercicios_1\factorial.h
+
+1787598267 source:d:\facultad\ejercicios_1\factorial.c
+	"factorial.h"
+
+1787581323 source:d:\facultad\ejercicios_1\fibonacci.c
+	"fibonacci.h"
+
+1787581112 d:\facultad\ejercicios_1\fibonacci.h
+
+1787598764 source:d:\facultad\ejercicios_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1787587704 d:\facultad\ejercicios_1\main.h
+	"factorial.h"
+	"combinatoria.h"
+	"potencia.h"
+	"mclauren.h"
+	"raiz.h"
+	"fibonacci.h"
+	"modulo.h"
+	"seno.h"
+
+1787583043 d:\facultad\ejercicios_1\potencia.h
+
+1787574715 d:\facultad\ejercicios_1\mclauren.h
+
+1787580418 d:\facultad\ejercicios_1\raiz.h
+
+1787588312 d:\facultad\ejercicios_1\modulo.h
+
+1787596925 d:\facultad\ejercicios_1\seno.h
+
+1787585473 source:d:\facultad\ejercicios_1\mclauren.c
+	"mclauren.h"
+	"potencia.h"
+	"factorial.h"
+
+1787598682 source:d:\facultad\ejercicios_1\potencia.c
+	"potencia.h"
+
+1787586299 source:d:\facultad\ejercicios_1\raiz.c
+	"raiz.h"
+
+1787598682 source:d:\facultad\ejercicios_1\seno.c
+	"seno.h"
+	"factorial.h"
+	"modulo.h"
+
+1787598454 source:d:\facultad\ejercicios_1\modulo.c
+	"modulo.h"
+
