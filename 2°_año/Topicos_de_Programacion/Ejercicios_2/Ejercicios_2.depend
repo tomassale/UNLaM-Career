@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1788450192 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1788448505 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\main.h
+	"insercion_posicion.h"
+	"mostrar_vector.h"
+
+1788447530 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\insercionpos.h
+
+1788447874 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\insercionpos.c
+	"insercionPos.h"
+
+1788448629 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\mostrar_vector.c
+	"mostrar_vector.h"
+	<stdio.h>
+
+1788448505 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\mostrar_vector.h
+
+1788453496 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\insercion_posicion.c
+	"insercion_posicion.h"
+
+1788448888 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\insercion_posicion.h
+
