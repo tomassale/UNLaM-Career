@@ -1,12 +1,15 @@
 # depslib dependency file v1.0
-1788450192 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\main.c
+1788900444 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\main.c
 	<stdio.h>
 	<stdlib.h>
 	"main.h"
 
-1788448505 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\main.h
+1788898552 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\main.h
 	"insercion_posicion.h"
 	"mostrar_vector.h"
+	"ordenamiento.h"
+	"eliminar_elemento.h"
+	"encontrar_elemento.h"
 
 1788447530 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\insercionpos.h
 
@@ -19,8 +22,29 @@
 
 1788448505 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\mostrar_vector.h
 
-1788453496 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\insercion_posicion.c
+1788898363 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\insercion_posicion.c
 	"insercion_posicion.h"
+	"ordenamiento.h"
 
 1788448888 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\insercion_posicion.h
+
+1788834914 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\ordenamiento.c
+	"ordenamiento.h"
+
+1788832843 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\ordenamiento.h
+
+1788898531 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\eliminar_elemento.h
+
+1788899631 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\eliminar_elemento.c
+	"eliminar_elemento.h"
+
+1788895463 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\ordenar_vector.c
+	"ordenar_vector.h"
+
+1788895180 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\ordenar_vector.h
+
+1788900125 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\encontrar_elemento.c
+	"encontrar_elemento.h"
+
+1788900444 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_2\encontrar_elemento.h
 

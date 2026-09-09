@@ -1,15 +1,19 @@
 #include "insercion_posicion.h"
+#include "ordenamiento.h"
 
+//Corregir uso de subindices, usar aritmetica de punteros
 void insercionPosicion(int *vec, int ce, int pos, int num, int *pp){
     int i, aux, temp;
-    aux = vec[pos];
-    vec[pos] = num;
+    aux = *(vec+pos);
+    *(vec+pos) = num;
 
     for(i = pos + 1; i < ce; i++){
-        temp = vec[i];   /* Guarda el valor actual antes de sobrescribirlo */
-        vec[i] = aux;    /* Inserta el valor desplazado anterior */
-        aux = temp;      /* El valor guardado pasa a ser el próximo a mover */
+        temp = *(vec+i);
+        *(vec+i) = aux;
+        aux = temp;
     }
 
-    *(pp) = aux;         /* El último elemento desplazado queda en pp */
+    ordenarVector(vec, 5);
+
+    *(pp) = aux;
 }

@@ -31,6 +31,18 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="cadenas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cadenas.h" />
+		<Unit filename="eliminar_elemento.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eliminar_elemento.h" />
+		<Unit filename="encontrar_elemento.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="encontrar_elemento.h" />
 		<Unit filename="insercion_posicion.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -43,6 +55,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="mostrar_vector.h" />
+		<Unit filename="ordenar_vector.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ordenar_vector.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
