@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1788990031 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\main.c
+	"main.h"
+
+1788986673 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"palindromo.h"
+	"corregir_vector.h"
+
+1788988954 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\palindromo.h
+
+1788988595 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\corregir_vector.c
+	"corregir_vector.h"
+
+1788988678 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\corregir_vector.h
+
+1788989997 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\palindromo.c
+	"palindromo.h"
+	<stdio.h>
+
