@@ -43,6 +43,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="palindromo.h" />
+		<Unit filename="valor_cadena.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="valor_cadena.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

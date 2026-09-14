@@ -2,19 +2,13 @@
 
 int main()
 {
-    char vector[21] = {"arriba la birra"};
-    char vectorCorregido[21];
-    int med, resultado, *punteroMed;
+    char texto[51] = {"asdfamopafm kdisaliras asdsalir asdfasd"};
 
-    punteroMed = &med;
+    printf("Cadena sin normalizar: %s", texto);
 
-    limpiarVector(vector, vectorCorregido, punteroMed);
-    resultado = esPalindromo(vectorCorregido, med);
+    normalizarCadena(texto, 51);
 
-    if(resultado)
-        printf("\nLa palabra %s es palindromo.", vector);
-    else
-        printf("\nLa palabra no es palindromo.");
+    printf("\nCadena normalizada: %s", texto);
 
     return 0;
 }
