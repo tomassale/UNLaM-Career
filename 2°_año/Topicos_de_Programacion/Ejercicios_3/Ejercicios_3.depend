@@ -1,13 +1,17 @@
 # depslib dependency file v1.0
-1788990031 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\main.c
+1789418493 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\main.c
 	"main.h"
 
-1788986673 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\main.h
+1789414579 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\main.h
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
+	<ctype.h>
 	"palindromo.h"
 	"corregir_vector.h"
+	"valor_cadena.h"
+	"contar_apariciones.h"
+	"normalizador.h"
 
 1788988954 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\palindromo.h
 
@@ -19,4 +23,20 @@
 1788989997 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\palindromo.c
 	"palindromo.h"
 	<stdio.h>
+
+1789414579 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\valor_cadena.h
+	<ctype.h>
+
+1789414579 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\contar_apariciones.h
+	<stdlib.h>
+	<stdio.h>
+
+1789415429 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\normalizador.h
+	<ctype.h>
+
+1789414579 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\valor_cadena.c
+	"valor_cadena.h"
+
+1789419281 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\normalizador.c
+	"normalizador.h"
 

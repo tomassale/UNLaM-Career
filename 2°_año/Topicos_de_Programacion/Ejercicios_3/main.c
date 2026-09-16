@@ -2,7 +2,7 @@
 
 int main()
 {
-    char texto[51] = {"asdfamopafm kdisaliras asdsalir asdfasd"};
+    char texto[51] = {"Hola   soy tomas"};
 
     printf("Cadena sin normalizar: %s", texto);
 

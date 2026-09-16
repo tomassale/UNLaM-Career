@@ -15,8 +15,17 @@ void normalizarCadena(char *vector, int ce){
     int i = 0, j = 0;
 
     while(i < ce && *(vector+i) != '\0'){
-        if(isspace){
-
+        if(!isspace(*(vector+i)) && !isspace(*(vector+i-1))){
+            *(vector+j) = *(vector+i);
+            j++;
         }
+
+        if(isspace(*(vector+i-1)) && !isspace(*(vector+i))){
+            *(vector+j) = toupper(*(vector+i));
+            j++;
+         }
+        i++;
     }
+
+    *(vector+j) = '\0';
 }
