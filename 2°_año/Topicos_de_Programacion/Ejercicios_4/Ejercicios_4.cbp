@@ -31,10 +31,6 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="fecha_valida.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="fecha_valida.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

@@ -11,5 +11,7 @@
 #include "valor_cadena.h"
 #include "contar_apariciones.h"
 #include "normalizador.h"
+#include "ofuscado.h"
+#include "comparacion.h"
 
 #endif // MAIN_H_INCLUDED

@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1789418493 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\main.c
+1789762411 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\main.c
 	"main.h"
 
-1789414579 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\main.h
+1789762019 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\main.h
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -12,6 +12,8 @@
 	"valor_cadena.h"
 	"contar_apariciones.h"
 	"normalizador.h"
+	"ofuscado.h"
+	"comparacion.h"
 
 1788988954 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\palindromo.h
 
@@ -37,6 +39,18 @@
 1789414579 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\valor_cadena.c
 	"valor_cadena.h"
 
-1789419281 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\normalizador.c
+1789597211 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\normalizador.c
 	"normalizador.h"
+
+1789756763 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\ofuscado.h
+	<ctype.h>
+
+1789756926 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\ofuscado.c
+	"ofuscado.h"
+
+1789762128 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\comparacion.h
+	<ctype.h>
+
+1789762268 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_3\comparacion.c
+	"comparacion.h"
 
