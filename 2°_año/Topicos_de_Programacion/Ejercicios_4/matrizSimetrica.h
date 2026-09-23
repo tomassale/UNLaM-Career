@@ -1,0 +1,6 @@
+#ifndef MATRIZSIMETRICA_H_INCLUDED
+#define MATRIZSIMETRICA_H_INCLUDED
+
+bool matrizSimetrica();
+
+#endif // MATRIZSIMETRICA_H_INCLUDED

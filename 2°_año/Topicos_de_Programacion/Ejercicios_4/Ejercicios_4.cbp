@@ -35,6 +35,38 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.h" />
+		<Unit filename="matrizDiagonal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matrizDiagonal.h" />
+		<Unit filename="matrizIdentidad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matrizIdentidad.h" />
+		<Unit filename="matrizSimetrica.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matrizSimetrica.h" />
+		<Unit filename="matrizTraspuesta.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matrizTraspuesta.h" />
+		<Unit filename="partido.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="partido.h" />
+		<Unit filename="productoMatrices.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="productoMatrices.h" />
+		<Unit filename="sumatoriaDiagonal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sumatoriaDiagonal.h" />
+		<Unit filename="trazaMatriz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="trazaMatriz.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
