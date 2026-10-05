@@ -2,6 +2,7 @@
 #define MATRIZDIAGONAL_H_INCLUDED
 
 #include <stdbool.h>
-bool esDiagonal();
+
+bool esDiagonal(void*, int);
 
 #endif // MATRIZDIAGONAL_H_INCLUDED

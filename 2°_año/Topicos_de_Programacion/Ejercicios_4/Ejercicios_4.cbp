@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="estructuraMatriz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="estructuraMatriz.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -67,6 +71,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="trazaMatriz.h" />
+		<Unit filename="utilidades.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="utilidades.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

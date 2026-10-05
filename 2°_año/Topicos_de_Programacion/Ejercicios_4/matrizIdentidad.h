@@ -2,6 +2,7 @@
 #define MATRIZIDENTIDAD_H_INCLUDED
 
 #include <stdbool.h>
-bool esIdentidad();
+
+bool esIdentidad(void*, int);
 
 #endif // MATRIZIDENTIDAD_H_INCLUDED

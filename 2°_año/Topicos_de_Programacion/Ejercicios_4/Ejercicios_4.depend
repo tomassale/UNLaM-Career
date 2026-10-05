@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1791232276 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\matrizdiagonal.c
+	"matrizDiagonal.h"
+
+1791231519 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\matrizdiagonal.h
+	<stdbool.h>
+
+1791232276 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\matrizidentidad.c
+	"matrizIdentidad.h"
+
+1791231519 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\matrizidentidad.h
+	<stdbool.h>
+
+1790108049 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\matriztraspuesta.c
+	"matrizTraspuesta.h"
+
+1790108049 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\matriztraspuesta.h
+
+1791209755 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\partido.c
+	"partido.h"
+
+1790108047 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\partido.h
+
+1790108048 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\productomatrices.c
+	"productoMatrices.h"
+
+1790108048 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\productomatrices.h
+
+1791228352 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\sumatoriadiagonal.c
+	"sumatoriaDiagonal.h"
+	<stdio.h>
+
+1791226520 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\sumatoriadiagonal.h
+
+1791229499 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\trazamatriz.c
+	"trazaMatriz.h"
+	<stdio.h>
+
+1791229499 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\trazamatriz.h
+
+1791232276 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\main.c
+	"main.h"
+
+1791212957 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"sumatoriaDiagonal.h"
+	"trazaMatriz.h"
+	"matrizDiagonal.h"
+	"matrizIdentidad.h"
+	"matrizSimetrica.h"
+	"estructuraMatriz.h"
+
+1791232449 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\matrizsimetrica.h
+	<stdbool.h>
+
+1791232326 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\estructuramatriz.h
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+
+1791232326 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\estructuramatriz.c
+	"estructuraMatriz.h"
+	"generarAleatorio.h"
+
+1791232276 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\matrizsimetrica.c
+	"matrizSimetrica.h"
+
+1791215137 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\generaraleatorio.h
+
+1791218264 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_4\generaraleatorio.c
+	"generarAleatorio.h"
+	<stdlib.h>
+
