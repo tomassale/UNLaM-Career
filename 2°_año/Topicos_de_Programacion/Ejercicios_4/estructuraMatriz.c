@@ -41,7 +41,7 @@ void Matriz_llenarAleatorioFloat(void *matriz, int fil, int col, int min, int ma
 
     for(i = 0; i < fil; i++){
         for(j = 0; j < col; j++){
-            pm[i * col + j] = generarAleatorioFloat(1, 15);
+            pm[i * col + j] = generarAleatorioFloat(min, max);
         }
     }
 }
@@ -52,7 +52,7 @@ void Matriz_llenarAleatorioInt(void *matriz, int fil, int col, int min, int max)
 
     for(i = 0; i < fil; i++){
         for(j = 0; j < col; j++){
-            pm[i * col + j] = generarAleatorioInt(1, 15);
+            pm[i * col + j] = generarAleatorioInt(min, max);
         }
     }
 }

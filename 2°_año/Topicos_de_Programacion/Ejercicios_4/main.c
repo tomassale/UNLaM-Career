@@ -1,32 +1,31 @@
 #include "main.h"
 
-#define N 4
+#define N 7
 
 int main(){
     void *pm;
-    bool res;
+    int vector[N] = {0};
+    int matrizCorrecta;
 
     srand(time(NULL));
 
     pm = Matriz_crear(N, N, sizeof(int));
 
     if(pm == NULL){
-        printf("No se pudo asignar el puntero de matriz...");
+        printf("No se pudo asignar el puntero de matriz 1...");
         return 0;
     }
 
-    Matriz_llenarAleatorioInt(pm, N, N, 1, 15);
-
-    res = esSimetrica(pm, N);
-
-    if(res){
-        printf("\nEs simetrica la matriz");
+    Matriz_llenarResultados(pm, N);
+    matrizCorrecta = Matriz_verificarCreacion(pm, N);
+    if(matrizCorrecta){
+        Matriz_mostrarTabla(pm, N);
+        Matriz_mostrarResultado(pm, vector, N);
     }else{
-        printf("\nNo es simetrica la matriz");
+        printf("No esta correctamente creada.\n");
     }
 
-    Matriz_mostrarInt(pm, N, N);
-
     Matriz_destruir(pm);
+
     return 0;
 }

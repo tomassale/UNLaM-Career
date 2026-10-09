@@ -1,8 +1,15 @@
-#include "generarAleatorio.h"
+#include "utilidades.h"
 #include <stdlib.h>
 
 int generarAleatorioInt(int min, int max){
     return min + rand() % (max - min + 1);
+}
+
+int generarAleatorioIntExcepcion(int min, int max, int excepto){
+    int num = min + rand() % (max - min + 1);
+    while(num == 5)
+        num = min + rand() % (max - min + 1);
+    return num;
 }
 
 float generarAleatorioFloat(float min, float max){
@@ -12,7 +19,7 @@ float generarAleatorioFloat(float min, float max){
 void intercambiarPosicion(int *dato1, int *dato2){
     int aux;
 
-    aux = *(dato1);
-    *(dato1) = *(dato2);
-    *(dato2) = *(dato1);
+    aux = *dato1;
+    *dato1 = *dato2;
+    *dato2 = aux;
 }

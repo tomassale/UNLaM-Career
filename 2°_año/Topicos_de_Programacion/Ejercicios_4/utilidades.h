@@ -2,6 +2,7 @@
 #define GENERARALEATORIO_H_INCLUDED
 
 int generarAleatorioInt(int, int);
+int generarAleatorioIntExcepcion(int, int, int);
 float generarAleatorioFloat(float, float);
 void intercambiarPosicion(int*, int*);
 

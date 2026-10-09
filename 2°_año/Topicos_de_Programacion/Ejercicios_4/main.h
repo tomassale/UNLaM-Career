@@ -11,6 +11,9 @@
 #include "matrizDiagonal.h"
 #include "matrizIdentidad.h"
 #include "matrizSimetrica.h"
+#include "matrizTraspuesta.h"
+#include "productoMatrices.h"
+#include "partido.h"
 #include "estructuraMatriz.h"
 
 #endif // MAIN_H_INCLUDED
