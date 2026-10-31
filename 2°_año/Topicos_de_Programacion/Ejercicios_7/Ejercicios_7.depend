@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1793105748 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_7\src\fechatda.c
+	"fechaTDA.h"
+
+1793106191 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_7\src\fechatda.h
+	<stdio.h>
+	<stdlib.h>
+
+1793386224source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_7\src\fechatda.c
+	"fechaTDA.h"
+
+1793382281d:\facultad\2起a隳\topicos_de_programacion\ejercicios_7\src\fechatda.h
+	<stdio.h>
+	<stdlib.h>
+
+1793108406source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_7\main.h
+	<stdio.h>
+	"src/fechaTDA.h"
+
+1793386392source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_7\main.c
+	"main.h"
+
+1793322902d:\facultad\2起a隳\topicos_de_programacion\ejercicios_7\main.h
+	<stdio.h>
+	"src/fechaTDA.h"
+
+1793108383source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_7\src\fechatda.h
+	<stdio.h>
+	<stdlib.h>
+
+1793374906source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_7\src\tdavector.c
+

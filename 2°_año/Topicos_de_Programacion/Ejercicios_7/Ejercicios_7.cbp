@@ -31,9 +31,22 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="TDAvectorEstatico.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TDAvectorEstatico.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="main.h" />
+		<Unit filename="src/TDAvector.h" />
+		<Unit filename="src/TDAvectorDinamico.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/fechaTDA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/fechaTDA.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

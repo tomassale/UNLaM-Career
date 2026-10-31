@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1791943043 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_5\src\copiamemmove.c
+	"copiaMemmove.h"
+	<stdlib.h>
+
+1791943065 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_5\src\copiamemmove.h
+	<string.h>
+
+1791939741 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_5\src\copiarobjetos.c
+	"copiarObjetos.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1791935697 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_5\src\copiarobjetos.h
+
+1791918756 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_5\src\vectordatos.c
+	"vectorDatos.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1791918199 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_5\src\vectordatos.h
+
+1791906498 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_5\src\vectordinamico.c
+	"vectorDinamico.h"
+	<stdlib.h>
+	<stdio.h>
+
+1791906307 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_5\src\vectordinamico.h
+
+1791943043 source:d:\facultad\2起a隳\topicos_de_programacion\ejercicios_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1791905689 d:\facultad\2起a隳\topicos_de_programacion\ejercicios_5\main.h
+	"src/vectorDinamico.h"
+	"src/vectorDatos.h"
+	"src/copiarObjetos.h"
+	"src/copiaMemmove.h"
+

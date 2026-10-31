@@ -34,6 +34,23 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="main.h" />
+		<Unit filename="src/copiaMemmove.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/copiaMemmove.h" />
+		<Unit filename="src/copiarObjetos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/copiarObjetos.h" />
+		<Unit filename="src/vectorDatos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/vectorDatos.h" />
+		<Unit filename="src/vectorDinamico.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/vectorDinamico.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

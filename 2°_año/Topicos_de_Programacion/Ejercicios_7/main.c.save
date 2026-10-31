@@ -1,0 +1,22 @@
+#include "main.h"
+
+int main()
+{
+    int res;
+    tFecha *fec = crearFechaTDA(26, 03, 2015);
+
+    if(fec == NULL){
+        printf("Error al inicalizar el puntero");
+        exit(1);
+    }
+
+    mostrarFechaTDA(fec);
+
+    res = esFechaValida(fec);a
+
+    (res) ? printf("\nEs fecha valida") : printf("No es fecha valida");
+
+    destruirFechaTDA(fec);
+
+    return 0;
+}
